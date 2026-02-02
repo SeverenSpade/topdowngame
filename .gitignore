@@ -10,6 +10,20 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 UnityGenerated/
+**temp/
+**Temp/
+**library/
+**Library/
+**obj/
+**Obj/
+**build/
+**Build/
+**builds/
+**Builds/
+**logs/
+**Logs/
+**usersettings/
+**UnityGenerated/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
